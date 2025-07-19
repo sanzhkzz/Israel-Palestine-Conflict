@@ -67,5 +67,5 @@ This project analyzes how public discussion on Reddit responds to real-world con
 
 ```bash
 # Clone the repository
-git clone https://github.com/tercasaskova311/Israel-Palestine-CSS-project.git
+git clone https://github.com/sanzhkzz/Israel-Palestine-conflict.git
 
